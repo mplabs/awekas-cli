@@ -1,0 +1,7 @@
+/coverage
+/bin
+/dist
+/build
+/lib
+/tmp
+node_modules
